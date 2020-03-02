@@ -1,0 +1,8 @@
+{
+    "name":"ko-lang",
+    "version":"1.0.0",
+    "label": "Korean Language Pack",
+    "url": "https://play0ad.com",
+    "description":"Korean Fonts and Translations",
+    "dependencies": ["0ad>=0.0.23"]
+} 
